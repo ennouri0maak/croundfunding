@@ -1,0 +1,41 @@
+
+.each-slide > div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    height: 350px;
+  }
+  
+  .each-slide span {
+    padding: 20px;
+    font-size: 20px;
+    background: #efefef;
+    text-align: center;
+  }
+
+  /*.xxx{
+      width: 7cm !important;
+      justify-content: center !important;
+      text-align: center !important;
+      display: block !important;
+      height: 10cm !important;
+      border-radius: 5cm!important;
+  }*/
+
+
+  
+.arpt{
+    font-family: LibreBaskerville;
+    font-size: 5cm;
+    color: brown;
+    background-color: rgb(0, 241, 229);
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "LibreBaskerville";
+    src: url("./LibreBaskerville-Regular.ttf");
+    
+    }
+  
